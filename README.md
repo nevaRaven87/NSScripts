@@ -1,2 +1,3 @@
 # NS Scripts
-NS Scripts public repository
+NS Scripts 
+https://discord.gg/y92z84gGhd
